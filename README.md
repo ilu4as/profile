@@ -1,1 +1,1 @@
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/ilu4as/ilu4as/output/dist/github-contribution-grid-snake.svg)
